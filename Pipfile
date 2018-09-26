@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "*"
 scrapy = "*"
+"pypiwin32" = "*"
 
 [dev-packages]
 
